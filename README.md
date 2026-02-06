@@ -46,7 +46,7 @@ This project analyzes customer purchasing behavior and product reorder patterns 
    - Top loyal customers, repeat vs new customers, basket size analysis
 5. **Correlation Analysis**
    - Identifying key factors impacting reorder behavior
-
+     
 ## Insights
 - Most sales come from high-demand grocery products.
 - Produce and dairy departments generate highest orders.
