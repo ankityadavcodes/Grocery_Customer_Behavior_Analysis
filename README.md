@@ -1,6 +1,6 @@
 # Grocery_Customer_Behavior_Analysis_Python
 Analyzing customer purchase and reorder patterns in a grocery retail dataset to provide actionable business insights and recommendations.
-# Grocery Customer Purchase & Reorder Behavior Analysis
+# Grocery Customer Purchase & Reorder Behavior Analysis_Python
 
 ## Project Overview
 This project analyzes customer purchasing behavior and product reorder patterns in a grocery retail dataset. The goal is to understand customer buying habits, reorder trends, product demand, and time-based ordering patterns to generate meaningful business insights.
